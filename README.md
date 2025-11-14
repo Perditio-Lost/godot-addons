@@ -20,6 +20,7 @@ To use the plugins in your own Godot project:
 4. Open Godot and go to:
    **Project > Project Settings > Plugins**
 5. Find the plugins you want to use and **enable them**.
+6. Delete any remaining unessential files or directories.
 
 ## Plugins Overview
 
